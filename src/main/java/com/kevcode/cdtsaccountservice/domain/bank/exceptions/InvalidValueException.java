@@ -1,4 +1,4 @@
-package com.kevcode.cdtsaccountservice.domain.exceptions;
+package com.kevcode.cdtsaccountservice.domain.bank.exceptions;
 
 public class InvalidValueException extends Exception {
     public InvalidValueException() {

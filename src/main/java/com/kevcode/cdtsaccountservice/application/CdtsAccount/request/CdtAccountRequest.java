@@ -4,5 +4,5 @@ import lombok.Data;
 
 @Data
 public class CdtAccountRequest {
-    private Long personId;
+    private Long customerId;
 }

@@ -1,4 +1,4 @@
-package com.kevcode.cdtsaccountservice.domain.repository;
+package com.kevcode.cdtsaccountservice.domain.bank.repository;
 
 
 public interface INationalTransactionRepository {

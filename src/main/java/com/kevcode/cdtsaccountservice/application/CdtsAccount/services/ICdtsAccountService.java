@@ -15,7 +15,7 @@ public interface ICdtsAccountService {
 
     Response<CdtAccountDto> create(CdtAccountRequest request);
 
-    Response<CdtAccountDto> getById(Long accounId);
+    Response<CdtAccountDto> getById(Long accountId);
 
-    Response<List<CdtAccountDto>> getByPersonId(Long personId);
+    List<CdtAccountDto> getByCustomerId(Long customerId);
 }

@@ -1,4 +1,4 @@
-package com.kevcode.cdtsaccountservice.domain.entities.base;
+package com.kevcode.cdtsaccountservice.domain.bank.entities.base;
 
 
 import javax.persistence.*;

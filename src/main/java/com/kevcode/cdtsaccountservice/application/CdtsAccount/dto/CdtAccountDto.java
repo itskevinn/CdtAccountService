@@ -6,5 +6,5 @@ import lombok.Data;
 public class CdtAccountDto {
     private Long id;
     private Long balance;
-    private Long personId;
+    private Long customerId;
 }

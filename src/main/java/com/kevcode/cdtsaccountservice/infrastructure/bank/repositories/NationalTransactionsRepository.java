@@ -1,6 +1,6 @@
-package com.kevcode.cdtsaccountservice.infrastructure.repositories;
+package com.kevcode.cdtsaccountservice.infrastructure.bank.repositories;
 
-import com.kevcode.cdtsaccountservice.domain.repository.INationalTransactionRepository;
+import com.kevcode.cdtsaccountservice.domain.bank.repository.INationalTransactionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
